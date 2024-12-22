@@ -1,0 +1,19 @@
+{
+  "name": "stupid-double-splited-video",
+  "version": "1.0.0",
+  "description": "pega dois videos, junta em um, um video em cada lado e um audio diferente em cada ouvido",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nubi-Prey/stupid-double-splited-video.git"
+  },
+  "author": "NubiPrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nubi-Prey/stupid-double-splited-video/issues"
+  },
+  "homepage": "https://github.com/Nubi-Prey/stupid-double-splited-video#readme"
+}
